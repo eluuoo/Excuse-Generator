@@ -29,6 +29,7 @@ Copy to clipboard: Use the copy button to save the text for your own use.
 
 
 2. blurb
+   
 In situations where one needs to come up with an excuse on the spur of the moment, this tool can quickly generate creative excuses tailored to various scenarios. It covers 9 major categories such as workplace, family, and entertainment, and combines the classic image of Pinocchio to design dynamic visual effects - the generated excuses and the character's nose will correspondingly change.
 
 The current visual effect is not very good. We will continue to improve it in the future.
