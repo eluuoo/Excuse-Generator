@@ -1,10 +1,10 @@
-The Excuse Maker
+Excuse Generator
 
 Author: Yilu Tan
 
 Date: March 2, 2026
 
-"The Excuse Maker" is an entertaining interactive web application that critically examines the widespread habit of fabricating excuses from a digital perspective. Part of the inspiration for this project comes from the classic fairy tale "Pinocchio", and the nose of Pinocchio is used as a visual metaphor for data acquisition. 
+"Excuse Generator" is an entertaining interactive web application that critically examines the widespread habit of fabricating excuses from a digital perspective. Part of the inspiration for this project comes from the classic fairy tale "Pinocchio", and the nose of Pinocchio is used as a visual metaphor for data acquisition. 
 
 video link:https://youtu.be/zm6qbUvSVtI
 
