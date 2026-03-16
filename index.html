@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Excuse Generator</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      overflow-x: hidden;
+    }
+
+    ::-webkit-scrollbar {
+      width: 12px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #FFECB3;
+      border-radius: 8px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #FF9800;
+      border-radius: 8px;
+      border: 3px solid #FFECB3;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #F57C00;
+    }
+
+    button:hover:not(:disabled) {
+      transform: translateY(-3px) !important;
+    }
+
+    button:active:not(:disabled) {
+      transform: translateY(1px) !important;
+    }
+
+    select:hover:not(:disabled) {
+      border-color: #F57C00 !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>
